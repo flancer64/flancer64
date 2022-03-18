@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://komarev.com/ghpvc/?username=flancer64&style=flat-square&color=blue" alt="counter"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flancer64)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=flancer64&theme=dark&background=000000)](https://git.io/streak-stats)
